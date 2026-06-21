@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Data Structures and Algorithms**
   
-- 🌐   Portfolio: [https://lakshaygarg.vercel.app/]
+- 🌐   Portfolio: https://lakshaygarg.vercel.app/
 
 - 📫 How to reach me **garglakshay2002@gmail.com**
 
