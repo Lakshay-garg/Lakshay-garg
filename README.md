@@ -8,6 +8,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Lakshay-garg](https://github.com/Lakshay-garg)
 
 - 💬 Ask me about **Data Structures and Algorithms**
+- 
+- 🌐   Portfolio: [https://lakshaygarg.vercel.app/]
 
 - 📫 How to reach me **garglakshay2002@gmail.com**
 
